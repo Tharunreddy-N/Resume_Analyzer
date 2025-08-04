@@ -1,7 +1,6 @@
 import re
 
 def parse_resume_text(text):
-    """Parse resume text and extract key information."""
     data = {}
 
     # Name (First line)
